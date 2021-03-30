@@ -13,14 +13,36 @@
   <div id="app">正在加载中...</div>
   <script>
     window.$docsify = {
-      name: 'MY NOTE',
+      name: 'T H I S 👉🏻 I S  M Y 📒 N O T E ',
       repo: 'https://github.com/liangH1997',
       loadSidebar: true,
       coverpage: true,
-      subMaxLevel: 4
+      subMaxLevel: 4,
+      alias: {
+        '/.*/_sidebar.md': '/_sidebar.md'
+      },
+      // 完整配置参数
+      search: {
+        maxAge: 86400000, // 过期时间，单位毫秒，默认一天
+        paths: 'auto',
+        // 支持本地化
+        placeholder: '搜索',
+        // 支持本地化
+        noData: '找不到结果',
+
+        // 搜索标题的最大层级, 1 - 6
+        depth: 4,
+
+        hideOtherSidebarContent: false, // 是否隐藏其他侧边栏内容
+
+        // 避免搜索索引冲突
+        // 同一域下的多个网站之间
+        namespace: 'website-1',
+      }
     }
   </script>
   <!-- Docsify v4 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
 </body>
 </html>
