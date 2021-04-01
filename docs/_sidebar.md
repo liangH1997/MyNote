@@ -6,12 +6,14 @@
   * [css小技巧](/css/css小技巧)
   * [元素居中方法合集](/css/元素居中方法合集)
   * [清除浮动方法合集](/css/清除浮动方法合集)
+  * [隐藏元素的几种方法](/css/隐藏元素的几种方法)
   * [BFC](/css/BFC)
 * <b>javaScript<b>
   * [js是什么](/js/js)
   * [浅拷贝与深拷贝](/js/浅拷贝与深拷贝)
 * <b>vue<b>
   * [vue是什么](/vue/vue)
+  * [v-for和v-if公用的解决方案](/vue/v-for和v-if公用的解决方案)
 * <b>react<b>
   * [react是什么](/react/react)
 * <b>拓展知识<b>

@@ -1,3 +1,4 @@
+# BFC
 ### 什么是BFC？
 ?> `BFC(block formatting context)`直译为`块级格式化上下文`。它是一个独立的渲染区域，只有`Blovk-level box`参与，它规定了内部的box如何布局，并且这个区域与外部毫不相干
 
