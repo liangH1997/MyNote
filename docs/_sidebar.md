@@ -13,9 +13,10 @@
   * [浅拷贝与深拷贝](/js/浅拷贝与深拷贝)
 * <b>vue<b>
   * [vue是什么](/vue/vue)
-  * [v-for和v-if公用的解决方案](/vue/v-for和v-if公用的解决方案)
+  * [v-for和v-if公用的解决方案](/vue/v-for和v-if共用的解决方案)
 * <b>react<b>
   * [react是什么](/react/react)
 * <b>拓展知识<b>
   * [js内存及垃圾回收机制](/拓展知识/js内存机制)
   * [浏览器的回流和重绘](/拓展知识/浏览器的回流和重绘)
+  * [事件循环EventLoop](/拓展知识/事件循环EventLoop)
