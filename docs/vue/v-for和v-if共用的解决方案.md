@@ -1,4 +1,4 @@
-## v-for 和 v-if 不能共用的解决方案
+## v-for 和 v-if 共用的解决方案
 ``` html
 <template v-for="(item,index) in tableHeaderOptions">
     <el-table-column
