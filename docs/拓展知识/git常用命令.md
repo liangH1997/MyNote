@@ -32,6 +32,11 @@ git push -d origin branchName
 git push origin branchName
 ```
 
+#### 本地分支关联远程分支
+```git
+git branch --set-upstream-to=origin/branchName
+```
+
 ### [git cherry-pick](http://www.ruanyifeng.com/blog/2020/04/git-cherry-pick.html)
 ```git
 git cherry-pick <commitHash>/branchName
