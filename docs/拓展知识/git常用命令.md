@@ -59,5 +59,12 @@ git rebase branchName
 // 将当前分支的新提交 变基到目标分支
 ```
 
+
+### git stash/git stash pop
+```git
+git stash   // 将当前修改暂存在本地，不提交
+git stash pop  // 还原成暂存前的状态
+```
+
 ### [git 后悔药大全](https://juejin.cn/post/6948338652845965348)
 ![后悔药大全](../img/git-01.png)
